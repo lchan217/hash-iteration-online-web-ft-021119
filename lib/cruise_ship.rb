@@ -6,3 +6,8 @@
 # suite_e: "Crumpet the Elf"
 # }
 require "pry"
+def select_winner(passengers)
+  passengers.each do |suite, name|
+    
+  end 
+end 
